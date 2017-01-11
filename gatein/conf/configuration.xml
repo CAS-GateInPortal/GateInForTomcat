@@ -26,7 +26,7 @@
             <object type="org.exoplatform.container.definition.PortalContainerDefinition">
               <!-- The name of the portal container -->
               <field name="name">
-                <string>portal</string>
+                <string>ots-portal</string>
               </field>
               <!-- The name of the context name of the rest web application -->
               <field name="restContextName">
@@ -57,7 +57,7 @@
                 <string>eXoResources</string>
               </value>
               <value>
-                <string>portal</string>
+                <string>ots-portal</string>
               </value>
               <value>
                 <string>dashboard</string>
