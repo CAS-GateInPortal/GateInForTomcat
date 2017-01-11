@@ -46,7 +46,7 @@
               pathname="conf/tomcat-users.xml" />
 
     <!-- by zhongwu change to jdbc -->
-    <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="20" maxIdle="10" maxWait="10000" minEvictableIdleTimeMillis="60000" name="exo-idm_portal" password="123" removeAbandoned="true" removeAbandonedTimeout="10" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/jdbcidm_ots-portal" username="root"/>
+    <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="20" maxIdle="10" maxWait="10000" minEvictableIdleTimeMillis="60000" name="exo-idm_portal" password="123" removeAbandoned="true" removeAbandonedTimeout="10" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/jdbcidm_portal" username="root"/>
 
   </GlobalNamingResources>
 
