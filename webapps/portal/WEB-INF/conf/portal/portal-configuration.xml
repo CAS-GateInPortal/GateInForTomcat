@@ -126,7 +126,7 @@
           <value-param>
             <name>default.portal</name>
             <description>The default portal for checking db is empty or not</description>
-            <value>finacials</value>
+            <value>classic</value>
           </value-param>
           <value-param>
             <name>page.templates.location</name>
